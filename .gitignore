@@ -7,7 +7,7 @@ haters/
 layout.md
 variables.env
 
-static/audioSamples
+static/audioSamples/*
 
 .idea
 .env
