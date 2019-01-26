@@ -1,5 +1,14 @@
-import Link from "next/link";
+import { Component } from 'react'
+import React from 'react'
 
-const Home = props => <div>Home page. Version: $$VERSION</div>;
+class Home extends Component {
+    render() {
+        return (
+            <div>
+                <div>Home page. Version: $$VERSION</div>
+            </div>
+        )
+    }
+}
 
-export default Home;
+export default Home

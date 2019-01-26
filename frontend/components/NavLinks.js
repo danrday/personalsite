@@ -5,6 +5,11 @@ const navLinks = [
         navItemText: 'Dashboard',
     },
     {
+        link: '/webaudio',
+        className: 'icon ion-ios-volume-high',
+        navItemText: 'Web Audio',
+    },
+    {
         link: '/page2',
         className: 'icon ion-ios-photos-outline',
         navItemText: 'D3 tests',
