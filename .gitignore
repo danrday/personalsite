@@ -7,9 +7,9 @@ haters/
 layout.md
 variables.env
 
-static/audioSamples/*
 
 .idea
 .env
 
 frontend/pages/f4.js
+frontend/static/audioSamples/*
